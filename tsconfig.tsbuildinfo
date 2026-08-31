@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/Car3D.tsx","./src/components/GameCamera.tsx","./src/components/HUD.tsx","./src/components/Opponents.tsx","./src/components/Scene.tsx","./src/components/Track.tsx","./src/hooks/useKeyboard.ts","./src/lib/trackData.ts","./src/lib/types.ts"],"version":"5.9.3"}
